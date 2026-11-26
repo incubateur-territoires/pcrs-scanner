@@ -38,6 +38,9 @@
     "ava": "^5.3.1",
     "xo": "^0.56.0"
   },
+  "resolutions": {
+    "nan": "^2.30.0"
+  },
   "xo": {
     "semicolon": false,
     "space": 2,
