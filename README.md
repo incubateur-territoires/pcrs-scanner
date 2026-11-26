@@ -26,7 +26,7 @@ A simple but efficient remote spatial data scanner
 
 ## Prerequisites
 
-- Node.js 20 LTS and above
+- Node.js 22 LTS (22.23.5 or later)
 - Yarn Package manager (but can be easily adapted to npm)
 - MongoDB 4.0 and above
 - libgdal-dev
